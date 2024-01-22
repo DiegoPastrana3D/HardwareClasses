@@ -1,2 +1,2 @@
-# HardwareClasses
-Hardware Homework
+# Hardware-Classes
+Homework 🪛
